@@ -6,4 +6,4 @@ Code will be made available upon paper acceptance.
 DeNNS: A Linearly-approximated and Optimized Dendrocentric
 Nearest Neighbor STDP. In Proceedings of International Conference
 on Neuromorphic Systems 2022 (ICONS ’22). ACM, New York, NY,
-USA<\em>
+USA
