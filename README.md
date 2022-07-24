@@ -1,8 +1,1 @@
-# LODeNNS
-This repository contains code implementation for the ICONS 22 Conference paper submission.
-Code will be made available upon paper acceptance.
-
-<em>Akwasi D. Akwaboah and Ralph Etienne-Cummings. 2022. LODeNNS: A Linearly-approximated and Optimized Dendrocentric
-Nearest Neighbor STDP. In Proceedings of International Conference
-on Neuromorphic Systems 2022 (ICONS ’22). ACM, New York, NY,
-USA
+<em>Akwasi D. Akwaboah and Ralph Etienne-Cummings. 2022. LODeNNS: A Linearly-approximated and Optimized DendrocentricNearest Neighbor STDP. In International Conference on Neuromorphic Systems (ICONS 2022), July 27–29, 2022, Knoxville, TN, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3546790.3546793
